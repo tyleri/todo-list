@@ -1,4 +1,4 @@
-package db;
+package me.tyleri.todolist.db;
 
 import android.provider.BaseColumns;
 
